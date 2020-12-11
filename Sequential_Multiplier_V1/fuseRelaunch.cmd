@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Xilinx/Desktop/Codigos_Lab/Projeto_Lab_9_V1/mult_seq_tb_isim_beh.exe" -prj "C:/Users/Xilinx/Desktop/Codigos_Lab/Projeto_Lab_9_V1/mult_seq_tb_beh.prj" "work.mult_seq_tb" 

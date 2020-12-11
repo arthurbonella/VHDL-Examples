@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Xilinx/Desktop/Codigos_Lab/Projeto_Lab_Gray/g_inc_tb_isim_beh.exe" -prj "C:/Users/Xilinx/Desktop/Codigos_Lab/Projeto_Lab_Gray/g_inc_tb_beh.prj" "work.g_inc_tb" 
