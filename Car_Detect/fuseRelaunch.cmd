@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Xilinx/Desktop/Codigos_Lab/Car_Detect/car_detect_tb_isim_beh.exe" -prj "C:/Users/Xilinx/Desktop/Codigos_Lab/Car_Detect/car_detect_tb_beh.prj" "work.car_detect_tb" 
