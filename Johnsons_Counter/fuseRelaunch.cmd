@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Xilinx/Desktop/Codigos_Lab/Johnsons_Counter/johnsons_testbench_isim_beh.exe" -prj "C:/Users/Xilinx/Desktop/Codigos_Lab/Johnsons_Counter/johnsons_testbench_beh.prj" "work.johnsons_testbench" 

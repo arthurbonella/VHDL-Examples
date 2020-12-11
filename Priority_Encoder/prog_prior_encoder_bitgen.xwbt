@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Xilinx\Desktop\Codigos_Lab\Projeto_Lab_4\prog_prior_encoder.ncd
+OUTFILE=C:\Users\Xilinx\Desktop\Codigos_Lab\Projeto_Lab_4\prog_prior_encoder.bit
+FAMILY=Spartan3E
+PART=xc3s1200e-4fg320
+WORKINGDIR=C:\Users\Xilinx\Desktop\Codigos_Lab\Projeto_Lab_4
+LICENSE=WebPack
+USER_INFO=211801421_0_0_479

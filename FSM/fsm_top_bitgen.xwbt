@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Xilinx\Desktop\Codigos_Lab\Projeto_Lab_7\fsm_top.ncd
+OUTFILE=C:\Users\Xilinx\Desktop\Codigos_Lab\Projeto_Lab_7\fsm_top.bit
+FAMILY=Spartan3E
+PART=xc3s1200e-4fg320
+WORKINGDIR=C:\Users\Xilinx\Desktop\Codigos_Lab\Projeto_Lab_7
+LICENSE=WebPack
+USER_INFO=211801421_0_0_479

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Xilinx/Desktop/Codigos_Lab/Garage_Top/garage_door_tb_isim_beh.exe" -prj "C:/Users/Xilinx/Desktop/Codigos_Lab/Garage_Top/garage_door_tb_beh.prj" "work.garage_door_tb" 
